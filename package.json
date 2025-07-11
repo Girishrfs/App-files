@@ -1,6 +1,7 @@
 {
   "name": "justdial-backend",
   "version": "1.0.0",
+  "type": "module",
   "description": "Backend for multi‑business app with AdminJS",
   "main": "server.js",
   "scripts": {
