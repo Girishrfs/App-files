@@ -1,9 +1,10 @@
+
 {
   "name": "justdial-backend",
   "version": "1.0.0",
-  "type": "module",
-  "description": "Backend for multi‑business app with AdminJS",
+  "description": "Backend for multi-business app with AdminJS v7",
   "main": "server.js",
+  "type": "module",
   "scripts": {
     "start": "node server.js"
   },
@@ -18,7 +19,7 @@
     "adminjs": "^7.8.16",
     "@adminjs/express": "^6.1.1",
     "@adminjs/mongoose": "^4.1.0",
-    "axios": "^1.6.8",
-    "express-formidable": "^1.2.0"
+    "express-session": "^1.17.3",
+    "axios": "^1.6.8"
   }
 }
