@@ -14,9 +14,9 @@
     "mongoose": "^7.0.0",
     "cors": "^2.8.5",
     "dotenv": "^16.0.0",
-    "adminjs": "^7.4.1",
-    "@adminjs/express": "^6.1.1",
-    "@adminjs/mongoose": "^1.2.0",
+    "adminjs": "^5.8.0",
+    "@adminjs/express": "^5.1.0",
+    "@adminjs/mongoose": "^1.1.0",
     "axios": "^1.4.0",
     "express-formidable": "^1.2.0"
   }
